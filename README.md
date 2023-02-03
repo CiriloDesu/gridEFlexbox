@@ -38,6 +38,7 @@ e mais 4 propriedades de **alinhamennto**
 ↳   - grid-column-start
     - grid-column-end
 - grid-row
+
 ↳   - grid-row-start
     - grid-row-end
 - grid-area
