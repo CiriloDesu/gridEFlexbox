@@ -24,7 +24,7 @@ Separando em 2 grupos:
 - grid-template-columns;
 - grid-template-rows;
 - grid-gap
- ↳  - grid-row-gap
+ -↳  - grid-row-gap
     - grid-column-gap
 - gri-template-areas;
 
@@ -35,11 +35,10 @@ e mais 4 propriedades de **alinhamennto**
 ## ITEMS
 
 - grid-column
-↳   - grid-column-start
+-↳   - grid-column-start
     - grid-column-end
 - grid-row
-
-↳   - grid-row-start
+-↳   - grid-row-start
     - grid-row-end
 - grid-area
 
